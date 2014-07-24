@@ -1,7 +1,7 @@
 'use strict';
 var async = require('async');
 var _ = require('lodash');
-var recess = require('recess');
+var recess = require('recess-imprt-css');
 var chalk = require('chalk');
 var maxmin = require('maxmin');
 
