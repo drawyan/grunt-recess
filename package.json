@@ -1,7 +1,7 @@
 {
-  "name": "grunt-recess",
+  "name": "grunt-recess-imprt-css",
   "version": "0.7.0",
-  "description": "Lint and minify CSS and LESS",
+  "description": "Lint and minify CSS and LESS, update the dependencies to support importing plain css",
   "keywords": [
     "gruntplugin",
     "css",
